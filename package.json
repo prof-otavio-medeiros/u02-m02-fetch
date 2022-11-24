@@ -1,0 +1,17 @@
+{
+  "name": "u02-m02-fetch",
+  "version": "1.0.0",
+  "description": "Projeto com estudos básicos do uso dos principais métodos 'HTTP' por meio do 'node-fetch'",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
